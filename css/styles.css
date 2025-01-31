@@ -10969,3 +10969,7 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+.d-flex {
+  scroll-margin-top: 3.5rem;
+}
